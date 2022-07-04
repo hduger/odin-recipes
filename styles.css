@@ -1,0 +1,62 @@
+body {
+    background-color: slategrey;
+}
+
+p {
+    margin-bottom: 0px;
+    margin-top: 1.25;
+}
+
+.description {
+    color: #07351a;
+    margin-bottom: 0px;
+    margin-top: 1.25;
+}
+
+h1 {
+    color: bisque;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 48px;
+    margin-bottom: 0%;
+}
+
+a {
+    color: brown;
+    
+}
+
+a:visited {
+    color: rgb(231, 154, 154);
+}
+
+a:hover {
+    color: azure;
+}
+
+h2 {
+    color: brown;
+}
+
+.lists {
+    color: white;
+}
+
+h3 {
+    color: blueviolet;
+}
+
+.lasagnaimg {
+    height: auto;
+    width: 150px;
+}
+
+.pbjimg {
+    height: auto;
+    width: 250px;
+}
+
+.milkshakeimg {
+    height: auto;
+    width: 250px;
+
+}
